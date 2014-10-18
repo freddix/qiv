@@ -1,11 +1,11 @@
 Summary:	Quick Image Viewver
 Name:		qiv
-Version:	2.2.4
+Version:	2.3.1
 Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
 Source0:	http://spiegl.de/qiv/download/%{name}-%{version}.tgz
-# Source0-md5:	1425f89c90f9c045858fccf24d894c97
+# Source0-md5:	93aea7469be64ebd35277a6dac079fc8
 Patch0:		%{name}-misc.patch
 URL:		http://spiegl.de/qiv/
 BuildRequires:	gtk+-devel
